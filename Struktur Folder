@@ -1,0 +1,8 @@
+my-online-store/
+├── index.html
+├── styles.css
+├── script.js
+├── images/
+    └── product1.jpg
+    └── product2.jpg
+    └── ...
